@@ -25,6 +25,7 @@ IV. React Routing, use of context
 
 
 
+
 **Milestone2:**
 
 I. Styled component:
@@ -47,16 +48,18 @@ V. Create a deployment build and run
 
 	https://dev.to/sudarshansb143/deploy-react-apps-in-production-pretty-easily-49jc
 
+
 		
 **Exercise:**
-Create a demo project which utilise all life cycle mehods, having 2-3 pages with resuable page.
-Pages: Home page with slider, dispay grid with static data(Json- crud with pagination and sorting )
+	Create a demo project which utilise all life cycle mehods, having 2-3 pages with resuable page.
+	Pages: Home page with slider, dispay grid with static data(Json- crud with pagination and sorting )
+
 
 **What you will be able to do post this course:**
-    • Participate in existing Node Js Project Setup
-    • Examine the fundamental architecture of a React application
-    • Will lern all the life cycle method of the react
-    • Learn how to use React components to create interactive interfaces
-    • Create reusable, common logic for usage in the app ecosystem
+	• Participate in existing Node Js Project Setup
+	• Examine the fundamental architecture of a React application
+	• Will lern all the life cycle method of the react
+	• Learn how to use React components to create interactive interfaces
+	• Create reusable, common logic for usage in the app ecosystem
     
     		
